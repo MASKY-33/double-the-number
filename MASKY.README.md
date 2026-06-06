@@ -1,7 +1,7 @@
 # Number Doubler Program
 This program asks the user to enter a number and then prints the result of multiplying that number by 2.
 
-# Features
+## Features
 - Asks the user to input a number
 - Multiplies the number by 2
 - Displays the final result
